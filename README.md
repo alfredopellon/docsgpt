@@ -1,13 +1,13 @@
 ### 1. Crear el archivo *openai.json* con el siguiente contenido:
 ```
 {
-    apikey: "api_key_openai"
+    "apikey": "api_key_openai"
 }
 ```
-### 2. Crear el directorio donde se encuentran los archivos a traducir y editar el archivo *config.json* 
+### 2. Crear el directorio donde se encuentran los archivos a traducir (*.txt) y editar el archivo *config.json* 
 ```
 {
-  "docspath" : "documentos",
+  "docspath" : "path_documentos_a_traducr",
   ...
 }
 ```
