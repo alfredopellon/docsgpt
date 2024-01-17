@@ -1,0 +1,25 @@
+{
+    "docspath" : "documentos",
+	"idiomas": {
+		"English": "en",
+		"Spanish": "es",
+		"French": "fr",
+		"German": "de",
+		"Chinese (Mandarin)": "zh",
+		"Arabic": "ar",
+		"Russian": "ru",
+		"Japanese": "ja",
+		"Portuguese": "pt",
+		"Hindi": "hi",
+		"Bengali": "bn",
+		"Urdu": "ur",
+		"Indonesian": "id",
+		"Swahili": "sw",
+		"Turkish": "tr",
+		"Korean": "ko",
+		"Italian": "it",
+		"Dutch": "nl",
+		"Swedish": "sv",
+		"Polish": "pl"
+    }
+}
